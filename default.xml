@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--
+    allseen/devtools/manifest.git   Repo support for AllJoyn on git.allseenalliance.org
+
+        ./manifest.xml              A repo workspace with (almost) all AllJoyn software Gits.
+                                    Local subdirs same as Git project names in Gerrit.
+-->
+
+    <remote name="origin" fetch="ssh://git.allseenalliance.org:29418/" review="git.allseenalliance.org/gerrit/"/>
+
+    <default revision="master" remote="origin" />
+
+  <!-- Core -->
+    <project path="core/alljoyn"                    name="core/alljoyn"/>
+    <project path="core/ajtcl"                      name="core/ajtcl"/>
+    <project path="core/about_tcl"                  name="core/about_tcl"/>
+  <!-- Services -->
+    <project path="services/config"                 name="services/config"/>
+    <project path="services/controlpanel"           name="services/controlpanel"/>
+    <project path="services/notification"           name="services/notification"/>
+    <project path="services/notification_viewer"    name="services/notification_viewer"/>
+    <project path="services/onboarding"             name="services/onboarding"/>
+    <project path="services/sample_apps"            name="services/sample_apps"/>
+    <project path="services/services_common"        name="services/services_common"/>
+    <project path="services/simulators"             name="services/simulators"/>
+  <!-- other -->
+    <project path="devtools/codegen"                name="devtools/codegen"/>
+
+</manifest>
