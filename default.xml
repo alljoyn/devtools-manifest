@@ -7,7 +7,7 @@
                                     Local subdirs same as Git project names in Gerrit.
 -->
 
-    <remote name="origin" fetch="ssh://git.allseenalliance.org:29418/" review="git.allseenalliance.org/gerrit/"/>
+    <remote name="origin" fetch="https://git.allseenalliance.org/gerrit/" review="git.allseenalliance.org/gerrit/"/>
 
     <default revision="master" remote="origin" />
 
