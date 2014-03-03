@@ -9,7 +9,7 @@
 
     <remote name="origin" fetch="https://git.allseenalliance.org/gerrit/" review="git.allseenalliance.org/gerrit/"/>
 
-    <default revision="refs/tags/v14.02" remote="origin" />
+    <default revision="RB14.02" remote="origin" />
 
   <!-- Core -->
     <project path="core/alljoyn"                    name="core/alljoyn"/>
