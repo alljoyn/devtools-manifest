@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://git.allseenalliance.org/gerrit/" review="git.allseenalliance.org/gerrit/"/>
+
+  <default remote="origin" revision="RB14.02"/>
+
+  <project name="core/about_tcl" path="core/about_tcl" revision="d669e64c4a4eca43fb4ae97135e762749f6ffcc5" upstream="RB14.02"/>
+  <project name="core/ajtcl" path="core/ajtcl" revision="8b394f4852c2b504b50ff6afbc947224423d33fc" upstream="RB14.02"/>
+  <project name="core/alljoyn" path="core/alljoyn" revision="344a451ae929b9f4d5e68fb7e92b44080d6b849a" upstream="RB14.02"/>
+  <project name="services/config" path="services/config" revision="5bbe24efeee717e3a16bb58707fc0a0f97931f72" upstream="RB14.02"/>
+  <project name="services/controlpanel" path="services/controlpanel" revision="2ad442e452c482460163ede27a5ca71ce30c768d" upstream="RB14.02"/>
+  <project name="services/notification" path="services/notification" revision="98fcce499c0185392180e67ba9d937f260de8671" upstream="RB14.02"/>
+  <project name="services/onboarding" path="services/onboarding" revision="abcbbc1db8af710320ccac7a554ced2282898bc2" upstream="RB14.02"/>
+  <project name="services/sample_apps" path="services/sample_apps" revision="8a972b562b711ec8f4a1cde7435be3ef5a0a9e78" upstream="RB14.02"/>
+  <project name="services/services_common" path="services/services_common" revision="347720e8f3fe57f9b6d150cf502f3df6bb50a38b" upstream="RB14.02"/>
+</manifest>

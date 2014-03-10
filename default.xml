@@ -3,8 +3,7 @@
 <!--
     allseen/devtools/manifest.git   Repo support for AllJoyn on git.allseenalliance.org
 
-        ./manifest.xml              A repo workspace with (almost) all AllJoyn software Gits.
-                                    Local subdirs same as Git project names in Gerrit.
+        default.xml : Heads of the current release branches.
 -->
 
     <remote name="origin" fetch="https://git.allseenalliance.org/gerrit/" review="git.allseenalliance.org/gerrit/"/>
