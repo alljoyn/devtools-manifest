@@ -16,14 +16,9 @@
     <project path="core/ajtcl"                      name="core/ajtcl"/>
     <project path="core/about_tcl"                  name="core/about_tcl"/>
   <!-- Services -->
-    <project path="services/config"                 name="services/config"/>
-    <project path="services/controlpanel"           name="services/controlpanel"/>
-    <project path="services/notification"           name="services/notification"/>
     <project path="services/notification_viewer"    name="services/notification_viewer"/>
-    <project path="services/onboarding"             name="services/onboarding"/>
-    <project path="services/sample_apps"            name="services/sample_apps"/>
-    <project path="services/services_common"        name="services/services_common"/>
-    <project path="services/simulators"             name="services/simulators"/>
+    <project path="services/base"                   name="services/base"/>
+    <project path="services/base_tcl"               name="services/base_tcl"/>
   <!-- other -->
     <project path="devtools/codegen"                name="devtools/codegen"/>
 
