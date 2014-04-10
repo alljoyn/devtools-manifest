@@ -14,7 +14,6 @@
   <!-- Core -->
     <project path="core/alljoyn"                    name="core/alljoyn"/>
     <project path="core/ajtcl"                      name="core/ajtcl"/>
-    <project path="core/about_tcl"                  name="core/about_tcl"/>
   <!-- Services -->
     <project path="services/notification_viewer"    name="services/notification_viewer"/>
     <project path="services/base"                   name="services/base"/>
