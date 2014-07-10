@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://git.allseenalliance.org/gerrit/" name="origin" review="git.allseenalliance.org/gerrit/"/>
+  
+  <default remote="origin" revision="RB14.06"/>
+  
+  <project name="core/ajtcl" revision="30b19669dc19798bb351c1b92cd0fc27a8d86804" upstream="RB14.06"/>
+  <project name="core/alljoyn" revision="9f9e582d357b6396e5b9bf82852ffd6b5ffaab35" upstream="RB14.06"/>
+  <project name="services/base" revision="bf87bb0e44c10d722ff8b39ac8bf72ae6ebbca84" upstream="RB14.06"/>
+  <project name="services/base_tcl" revision="fa738ebb7a768288260c508cb1e53b9bb5703fc9" upstream="RB14.06"/>
+</manifest>
