@@ -4,8 +4,8 @@
   
   <default remote="origin" revision="RB14.06"/>
   
-  <project name="core/ajtcl" revision="30b19669dc19798bb351c1b92cd0fc27a8d86804" upstream="RB14.06"/>
-  <project name="core/alljoyn" revision="9f9e582d357b6396e5b9bf82852ffd6b5ffaab35" upstream="RB14.06"/>
-  <project name="services/base" revision="bf87bb0e44c10d722ff8b39ac8bf72ae6ebbca84" upstream="RB14.06"/>
-  <project name="services/base_tcl" revision="fa738ebb7a768288260c508cb1e53b9bb5703fc9" upstream="RB14.06"/>
+  <project name="core/ajtcl" revision="bf6a9179a5b15a8ee67e5b2c4ce575819f189685" upstream="RB14.06"/>
+  <project name="core/alljoyn" revision="ad3804992d6af7ccb456d90b1ee0019c15f11d99" upstream="RB14.06"/>
+  <project name="services/base" revision="4998792e980b91967af5c1524748408abed304e4" upstream="RB14.06"/>
+  <project name="services/base_tcl" revision="e294ed002418fffe70b564b18e4411831c53c5e2" upstream="RB14.06"/>
 </manifest>
