@@ -34,5 +34,6 @@
     <project path="services/base"                   name="services/base"/>
     <project path="services/base_tcl"               name="services/base_tcl"/>
     <project path="services/notification_viewer"    name="services/notification_viewer"/>
+    <project path="multimedia/audio"                name="multimedia/audio"/>
 
 </manifest>
