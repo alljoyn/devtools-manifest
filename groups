@@ -1,3 +1,0 @@
-# UUID                                  	Group Name
-#
-ldap:cn=gerrit_devtools_committers,ou=groups,cn=allseen,dc=codeaurora,dc=org	ldap/gerrit_devtools_committers
