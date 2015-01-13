@@ -15,4 +15,7 @@
     <project path="core/alljoyn"                    name="core/alljoyn"/>
     <project path="core/ajtcl"                      name="core/ajtcl"/>
 
+    <!-- Devtools -->
+    <project path="devtools/codegen"                name="devtools/codegen"/>
+
 </manifest>
