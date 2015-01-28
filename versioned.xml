@@ -4,6 +4,6 @@
   
   <default remote="origin" revision="RB14.12"/>
   
-  <project name="allseen/core/ajtcl" path="core/ajtcl" revision="7022be185af53f83b46cdd43bb79a48a39100ac5" upstream="RB14.12"/>
-  <project name="allseen/core/alljoyn" path="core/alljoyn" revision="8a2cdca2540495416b607599aac834111d2a0afb" upstream="RB14.12"/>
+  <project name="core/ajtcl" path="core/ajtcl" revision="7022be185af53f83b46cdd43bb79a48a39100ac5" upstream="RB14.12"/>
+  <project name="core/alljoyn" path="core/alljoyn" revision="8a2cdca2540495416b607599aac834111d2a0afb" upstream="RB14.12"/>
 </manifest>
