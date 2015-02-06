@@ -18,4 +18,7 @@
     <!-- Devtools -->
     <project path="devtools/codegen"                name="devtools/codegen"/>
 
+    <!-- Datadriven Api -->
+    <project path="data/datadriven_api"             name="data/datadriven_api"/>
+
 </manifest>
