@@ -4,8 +4,14 @@
   
   <default remote="origin" revision="RB14.12"/>
   
-  <project name="core/ajtcl" revision="7022be185af53f83b46cdd43bb79a48a39100ac5" upstream="RB14.12"/>
-  <project name="core/alljoyn" revision="108de2eff845662cd41558c1939cd9d17410f711" upstream="RB14.12"/>
-  <project name="data/datadriven_api" revision="d9564f0f122251dad712955c758351fe057b39e8" upstream="RB14.12"/>
-  <project name="devtools/codegen" revision="57da5f3d5975d3512c360a08b9dedb20ba54227b" upstream="RB14.12"/>
+  <project name="core/ajtcl"                 revision="7022be185af53f83b46cdd43bb79a48a39100ac5" upstream="RB14.12"/>
+  <project name="core/alljoyn"               revision="108de2eff845662cd41558c1939cd9d17410f711" upstream="RB14.12"/>
+  <project name="data/datadriven_api"        revision="d9564f0f122251dad712955c758351fe057b39e8" upstream="RB14.12"/>
+  <project name="devtools/codegen"           revision="57da5f3d5975d3512c360a08b9dedb20ba54227b" upstream="RB14.12"/>
+  <project name="gateway/gwagent"            revision="0925eac142c286d0dbd50872ebfb3283b0037703" upstream="RB14.12"/>
+  <project name="lighting/apps"              revision="18ddf662142b2cd4bc4422d0aea228632360e935" upstream="RB14.12"/>
+  <project name="lighting/service_framework" revision="6c8cd8abe4cb2f079220fc378e248f691156f576" upstream="RB14.12"/>
+  <project name="services/base"              revision="403cda579242701d42d2d7c0da308d63a8f46070" upstream="RB14.12"/>
+  <project name="services/base_tcl"          revision="064e8d277e8439886aac11cf311afb061dcbe43c" upstream="RB14.12"/>
+
 </manifest>
