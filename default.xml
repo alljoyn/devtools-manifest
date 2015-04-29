@@ -3,7 +3,7 @@
 <!--
     allseen/devtools/manifest.git   Repo support for AllJoyn on git.allseenalliance.org
 
-        ./manifest.xml              A repo workspace with (almost) all AllJoyn software Gits.
+        ./default.xml               A repo workspace with AllJoyn software, branch RB15.04
                                     Local subdirs same as Git project names in Gerrit.
 -->
 
