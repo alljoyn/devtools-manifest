@@ -14,4 +14,15 @@
     <!-- Core -->
     <project path="core/ajtcl"                      name="core/ajtcl"/>
     <project path="core/alljoyn"                    name="core/alljoyn"/>
+
+    <!-- Datadriven Api -->
+    <project path="data/datadriven_api"             name="data/datadriven_api"/>
+
+    <!-- Devtools -->
+    <project path="devtools/codegen"                name="devtools/codegen"/>
+
+    <!-- Services -->
+    <project path="services/base"                   name="services/base"/>
+    <project path="services/base_tcl"               name="services/base_tcl"/>
+
 </manifest>
