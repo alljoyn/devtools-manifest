@@ -12,6 +12,10 @@
   <default remote="origin" revision="RB15.04"/>
 
   <project name="core/ajtcl"                 revision="35548a3249bb60c0615652054d9ca0b2604e3639" upstream="RB15.04"/>
-  <project name="core/alljoyn"               revision="1a942727765be022f52c2d15bada6ab0e0564a3e" upstream="RB15.04"/>
+  <project name="core/alljoyn"               revision="unknown" upstream="RB15.04"/>
+  <project name="data/datadriven_api"        revision="unknown" upstream="RB15.04"/>
+  <project name="devtools/codegen"           revision="unknown" upstream="RB15.04"/>
+  <project name="services/base"              revision="unknown" upstream="RB15.04"/>
+  <project name="services/base_tcl"          revision="unknown" upstream="RB15.04"/>
 
 </manifest>
