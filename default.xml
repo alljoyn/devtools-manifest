@@ -15,8 +15,10 @@
     <project path="compliance/tests"                name="compliance/tests"/>
 
     <!-- Core -->
-    <project path="core/alljoyn"                    name="core/alljoyn"/>
     <project path="core/ajtcl"                      name="core/ajtcl"/>
+    <project path="core/alljoyn"                    name="core/alljoyn"/>
+    <project path="core/alljoyn-js"                 name="core/alljoyn-js"/>
+    <project path="core/test"                       name="core/test"/>
 
     <!-- Data -->
     <project path="data/datadriven_api"             name="data/datadriven_api"/>
