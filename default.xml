@@ -14,6 +14,7 @@
     <!-- Core -->
     <project path="core/ajtcl"                      name="core/ajtcl"/>
     <project path="core/alljoyn"                    name="core/alljoyn"/>
+    <project path="core/alljoyn-js"                 name="core/alljoyn-js"/>
 
     <!-- Datadriven Api -->
     <project path="data/datadriven_api"             name="data/datadriven_api"/>

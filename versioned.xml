@@ -11,8 +11,9 @@
 
   <default remote="origin" revision="RB15.04"/>
 
-  <project name="core/ajtcl"                 revision="35548a3249bb60c0615652054d9ca0b2604e3639" upstream="RB15.04"/>
+  <project name="core/ajtcl"                 revision="7d7871a950985a03979c8e22df258c049ae12b20" upstream="RB15.04"/>
   <project name="core/alljoyn"               revision="6c492f7452a6b4b240f1b572dbda2f2bcc4faf2d" upstream="RB15.04"/>
+  <project name="core/alljoyn-js"            revision="57e7f26fad727bb41015fff46f7d96fe261dc38c" upstream="RB15.04"/>
   <project name="data/datadriven_api"        revision="6a187f4fa5afd1d9ae8d769bf6c3b1edf48fb565" upstream="RB15.04"/>
   <project name="devtools/codegen"           revision="76f71604e2010c0683a7d66e8d5f5db690cc3096" upstream="RB15.04"/>
   <project name="services/base"              revision="51d6850f77036fcfd624c54fd8d840748ab2aca5" upstream="RB15.04"/>
