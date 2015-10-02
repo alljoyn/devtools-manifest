@@ -13,5 +13,6 @@
 
   <project name="core/ajtcl"                 revision="ecf85bdeb990fefe55744054a2ed49c10c6c1dce" upstream="RB15.09"/>
   <project name="core/alljoyn"               revision="0d5f459c2961f3172f830045ae48cbd5a6b0c16a" upstream="RB15.09"/>
+  <project name="core/securitymgr"           revision="ce874ce009de81521c21b024b2db6bb33ef04c30" upstream="RB15.09"/>
 
 </manifest>
