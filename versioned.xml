@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!--
+    allseen/devtools/manifest.git   Repo support for AllJoyn on git.allseenalliance.org
+
+        ./versioned.xml             A repo workspace with AllJoyn software: alljoyn release v16.04, ajtcl v16.04
+                                    Local subdirs same as Git project names in Gerrit.
+-->
+
+  <remote fetch="https://git.allseenalliance.org/gerrit/" name="origin" review="git.allseenalliance.org/gerrit/"/>
+
+  <default revision="RB16.04" remote="origin" />
+
+  <project name="core/ajtcl"                 revision="a6659ee7955b5472999cafc8cadaa42e2846f903" upstream="RB16.04"/>
+  <project name="core/alljoyn"               revision="963640ed1ec2b536790b90a258c086a3466e5717" upstream="RB16.04"/>
+  <project path="core/test"                  revision="82c3249a8b521f82da9cd674e8564bbe371ad66e" upstream="RB16.04"/>
+
+</manifest>
