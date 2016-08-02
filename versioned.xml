@@ -11,8 +11,7 @@
 
   <default revision="RB16.04" remote="origin" />
 
-  <project name="core/ajtcl"                 revision="a6659ee7955b5472999cafc8cadaa42e2846f903" upstream="RB16.04"/>
-  <project name="core/alljoyn"               revision="963640ed1ec2b536790b90a258c086a3466e5717" upstream="RB16.04"/>
-  <project path="core/test"                  revision="82c3249a8b521f82da9cd674e8564bbe371ad66e" upstream="RB16.04"/>
+  <project name="core/ajtcl"                 revision="c0d78c4f207e09b4f0f802593f29dfc9a005fb66" upstream="RB16.04"/>
+  <project name="core/alljoyn"               revision="e52a38239380bca9484f08381377a0dd7db0c05f" upstream="RB16.04"/>
 
 </manifest>
